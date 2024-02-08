@@ -55,7 +55,7 @@ Please keep thse installed in order to have a smooth experience with the game
 >       * in case there is a `Kaooa` in the neighbouring cell and there exists an `empty` cell in straight line on that path after the `Kaooa`, then the `Baaz` can `ONLY` move to that cell and compulsorily kill the `Kaooa` in the middle by removing it off the board and making that cell empty again
 
 ### `WIN for KAOOA`
->>`Kaooa` wins when the game when the `Baaz` is eventually put in such a cell that there is `NO PERMISSIBLE MOVE` left for the `Baaz` to make\
+>>`Kaooa` wins the game when the `Baaz` is eventually put in such a cell that there is `NO PERMISSIBLE MOVE` left for the `Baaz` to make\
 >>This has to be done by the `Kaooas` before the `Baaz` kills 4 of them
 
 ### `WIN for BAAZ`
