@@ -52,7 +52,7 @@ Please keep thse installed in order to have a smooth experience with the game
 >   * can only start moving after the only `Baaz` is placed on the baord
 >   * once the `Baaz` is placed, it can move in 2 different ways :
 >       * moving to the `adjacent` empty cell on the board
->       * in case there is a `Kaooa` in the neighbouring cell and there exists an `empty` cell in straight line on that path after the `Kaooa`, then the `Baaz`  can move to that cell and kill the `Kaooa` in the middle by removing it off the board and making that empty again
+>       * in case there is a `Kaooa` in the neighbouring cell and there exists an `empty` cell in straight line on that path after the `Kaooa`, then the `Baaz` can `ONLY` move to that cell and compulsorily kill the `Kaooa` in the middle by removing it off the board and making that cell empty again
 
 ### `WIN for KAOOA`
 >>`Kaooa` wins when the game when the `Baaz` is eventually put in such a cell that there is `NO PERMISSIBLE MOVE` left for the `Baaz` to make\
