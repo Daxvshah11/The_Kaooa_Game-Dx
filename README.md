@@ -11,6 +11,24 @@ Hope you enjoy playing it!
 
 * Both players try to win their games to their best level in order to have a fair match
 
+## Setup Procedure
+* There are a couple of libraries that are supposed to be installed onto your system in order to be able to properly play the game :
+    * `pygame` library
+    * `sys` library\
+Please keep thse installed in order to have a smooth experience with the game
+
+* Please keep the file `kaooa_functions.py` in the same directory as the main file `kaooa.py`
+
+* Once these libraries are installed, you just need to open your terminal and run the python script for the game program
+
+* > python3 kaooa.py
+
+* Once that is done, you will be asked to enter player names for both the sides `ie. Kaooa` &amp; `Baaz` in the `terminal itself`
+
+* After that is done, press `Enter` and switch to the new `pygame GUI` window that must have opened
+
+* In this window, start playing the game by just simple `mouse clicks` and follow the game as the prompts keep updating about the game stats
+
 ## Rules of the Game
 * There are total `7 Kaooas (Crows)` &amp; `1 Baaz (Eagle)` 
 
@@ -44,23 +62,11 @@ Hope you enjoy playing it!
 >>This has to be done before getting completely blocked out of moves by the `Kaooas`
 
 
-## Procedure
-* There are a couple of libraries that are supposed to be installed onto your system in order to be able to properly play the game :
-    * `pygame` library
-    * `sys` library\
-Please keep thse installed in order to have a smooth experience with the game
+## Conclusion
+That was all that was for a pre-setup stage in order to play the game. It is a simply Python script and only requires a couple of libraries to be installed before running the script.
 
-* Please keep the file `kaooa_functions.py` in the same directory as the main file `kaooa.py`
-
-* Once these libraries are installed, you just need to open your terminal and run the python script for the game program
-
-* > python3 kaooa.py
-
-* Once that is done, you will be asked to enter player names for both the sides `ie. Kaooa` &amp; `Baaz` in the `terminal itself`
-
-* After that is done, press `Enter` and switch to the new `pygame GUI` window that must have opened
-
-* In this window, start playing the game by just simple `mouse clicks` and follow the game as the prompts keep updating about the game stats
+Hope it works well on your system! 
+In case it does not, I am completely open to all kind of `suggestions & issues` so please feel free to share them with me!
 
 
 # HAPPY GAMING FOLKS !!!
