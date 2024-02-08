@@ -42,10 +42,11 @@ Please keep thse installed in order to have a smooth experience with the game
 
 
 ### `MOVEMENT of KAOOAS` :
->   * can only start moving after 7 of them have been placed atleast once on the board :
+>   * can only start moving after 7 of them have been placed atleast once on the board
 >   * does not matter if all of them are not present on the board at a time
 >   * until then, the only move that a `Kaooa` player can perform is to place one of its avatars at an empty cell on the board
 >   * Kaooas can move only 1 space at a time once they are allowed to start moving across the board
+>   * Kaooas can not move to a neighbouring place if there is already either another `Kaooa` or `Baaz`
 
 ### `MOVEMENT of BAAZ` :
 >   * can only start moving after the only `Baaz` is placed on the baord
